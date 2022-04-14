@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: pystocks
+Version: 0.0.1
+Summary: Python Stock Bot for Testing Frameworks
+Home-page: https://github.com/jojorules47/pystocks/pulse
+Author: Example Author
+Author-email: author@example.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6

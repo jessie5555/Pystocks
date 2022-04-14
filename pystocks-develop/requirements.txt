@@ -1,0 +1,6 @@
+pandas_dataframe
+numpy
+pandas
+yfinance
+robin-stocks
+realtime-stock

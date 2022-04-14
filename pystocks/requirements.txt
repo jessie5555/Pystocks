@@ -1,0 +1,7 @@
+numpy
+pandas
+yfinance
+robin-stocks
+python-daemon
+psycopg2
+sqlalchemy
